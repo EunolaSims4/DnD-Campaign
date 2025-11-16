@@ -1,5 +1,5 @@
 ### Allowed
-- Vairy - home brew species (vampiric fae)
+- Vairy - home brew species (vampiric fae)--added as homebrew species to dnd beyond
 - Dragonborn
 - Dwarf
 - Elf
@@ -14,8 +14,17 @@
 - Bugbear
 - Deep Gnome
 - Duergar
+- Eladrin
+- Fairy
+- Firbolg
 ### Not Allowed
 - Aasimar
 - Aarakocra
 - Changeling
 - All Genasis
+- Githyanki
+- Warforged
+- Gith
+- Wechselkind
+
+All others just fucking ask
