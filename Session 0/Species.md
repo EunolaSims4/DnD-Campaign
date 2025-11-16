@@ -1,3 +1,21 @@
 ### Allowed
 - Vairy - home brew species (vampiric fae)
+- Dragonborn
+- Dwarf
+- Elf
+- Gnome
+- Goliath
+- Halfling
+- Human
+- Orc
+- Tiefling
+- Dhampir
+- Centaur
+- Bugbear
+- Deep Gnome
+- Duergar
 ### Not Allowed
+- Aasimar
+- Aarakocra
+- Changeling
+- All Genasis
