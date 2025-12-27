@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 0/Species.md",
+                "file": "Session 0/Backstory Guidelines.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Species"
+              "title": "Backstory Guidelines"
             }
           }
         ]
@@ -168,8 +168,13 @@
   },
   "active": "ffc49e654ae5df7f",
   "lastOpenFiles": [
-    "Bios/Isidora (Played by Tigra Valentine).md",
+    "Session 0/Species.md",
+    "Session 0/Classes.md",
+    "Session 0/Party Relationships.md",
+    "Session 0/House Rules.md",
     "Session 0/Current Players.md",
+    "Session 0/Group Expectations.md",
+    "Bios/Isidora (Played by Tigra Valentine).md",
     "Session 0/Spells.md",
     "Bios/NPC Character Template.md",
     "Bios/Untitled.md",
