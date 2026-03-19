@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Building the Campaign /Environmental Hazards.md",
+                "file": "Building the Campaign /Loot and Treasure Tables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Environmental Hazards"
+              "title": "Loot and Treasure Tables"
+            }
+          },
+          {
+            "id": "32a7cf48206faf51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Party Sessions/Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 1"
+            }
+          },
+          {
+            "id": "da39043a51b5abe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skey Sessions/Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +155,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Building the Campaign /Environmental Hazards.md",
+            "file": "Skey Sessions/Session 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,8 +210,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dede2c6a8b712ce5",
+  "active": "da39043a51b5abe6",
   "lastOpenFiles": [
+    "Full Party Sessions/Session 1.md",
+    "Skey Sessions/Session 1.md",
+    "Building the Campaign /Loot and Treasure Tables.md",
+    "Building the Campaign /Environmental Hazards.md",
     "Building the Campaign /Enemy Stat Block.md",
     "Building the Campaign /Encounter Templates.md",
     "Isidora Sessions/Session 1.md",
@@ -201,7 +233,6 @@
     "Session 0/Current Players.md",
     "Building the Campaign /Plot Twists.md",
     "Building the Campaign /Main Story Arc.md",
-    "Building the Campaign /Loot and Treasure Tables.md",
     "Building the Campaign /Homebrew Rules.md",
     "Building the Campaign /History and Mythology.md",
     "Building the Campaign /Factions and Politics.md",
@@ -209,8 +240,6 @@
     "Session 0/Species.md",
     "Session 0/Classes.md",
     "Session 0/Party Relationships.md",
-    "Session 0/House Rules.md",
-    "Session 0/Group Expectations.md",
-    "Session 0/Spells.md"
+    "Session 0/House Rules.md"
   ]
 }
