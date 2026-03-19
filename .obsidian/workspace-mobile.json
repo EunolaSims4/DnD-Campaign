@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 0/Backstory Guidelines.md",
+                "file": "Bios/NPC Character Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Backstory Guidelines"
+              "title": "NPC Character Template"
+            }
+          },
+          {
+            "id": "dede2c6a8b712ce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Building the Campaign /Environmental Hazards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Environmental Hazards"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,6 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Building the Campaign /Environmental Hazards.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,25 +182,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ffc49e654ae5df7f",
+  "active": "dede2c6a8b712ce5",
   "lastOpenFiles": [
+    "Building the Campaign /Enemy Stat Block.md",
+    "Building the Campaign /Encounter Templates.md",
+    "Isidora Sessions/Session 1.md",
+    "Skey Sessions",
+    "Full Party Sessions",
+    "Bios/Isidora (Played by Tigra Valentine).md",
+    "Isidora Sessions",
+    "Bios/NPC Character Template.md",
+    "Session 0/Ability Scores and Feats.md",
+    "Session 0/Safety Tools.md",
+    "Session 0/Starting Equipment and Gold.md",
+    "Session 0/Starting Hooks.md",
+    "Session 0/Themed and Tone.md",
+    "Session 0/World Overview.md",
+    "Session 0/Current Players.md",
+    "Building the Campaign /Plot Twists.md",
+    "Building the Campaign /Main Story Arc.md",
+    "Building the Campaign /Loot and Treasure Tables.md",
+    "Building the Campaign /Homebrew Rules.md",
+    "Building the Campaign /History and Mythology.md",
+    "Building the Campaign /Factions and Politics.md",
+    "Session 0/Backstory Guidelines.md",
     "Session 0/Species.md",
     "Session 0/Classes.md",
     "Session 0/Party Relationships.md",
     "Session 0/House Rules.md",
-    "Session 0/Current Players.md",
     "Session 0/Group Expectations.md",
-    "Bios/Isidora (Played by Tigra Valentine).md",
-    "Session 0/Spells.md",
-    "Bios/NPC Character Template.md",
-    "Bios/Untitled.md",
-    "Building the Campaign /NPC Quotes.md",
-    "Building the Campaign /Session Notes Template.md",
-    "Building the Campaign /Homebrew Rules.md",
-    "Building the Campaign /Environmental Hazards.md",
-    "Building the Campaign /Loot and Treasure Tables.md",
-    "Building the Campaign /Enemy Stat Block.md",
-    "Building the Campaign /Encounter Templates.md",
-    "Welcome.md"
+    "Session 0/Spells.md"
   ]
 }

@@ -2,4 +2,6 @@
 - Teslune - one player? and Shop keeper NPC
 - Tigra Valentine - VA and player for Isidora
 - jamjars - ADHD Character shows up when able
-- 
+- Von 
+- Joey
+- Emma - goose

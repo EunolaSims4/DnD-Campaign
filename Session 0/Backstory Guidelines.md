@@ -17,4 +17,4 @@ Avoid:
 8. No graphic sexual violence or torture in backstories.
 9. Trauma is allowed, but it should be handled with care and purpose.
 10. DM may request edits to ensure group comfort and narrative cohesion.
-11. Must have  reason to work with the party 
+11. Must have reason to work with the party 
