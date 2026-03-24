@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skey Sessions/Session 1.md",
+                "file": "Session 0/Current Players.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "Current Players"
             }
           }
         ],
@@ -155,7 +155,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Skey Sessions/Session 1.md",
+            "file": "Session 0/Current Players.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -212,17 +212,19 @@
   },
   "active": "da39043a51b5abe6",
   "lastOpenFiles": [
-    "Full Party Sessions/Session 1.md",
+    "Isidora Sessions/Session 1.md",
+    "Isidora Sessions",
+    "Building the Campaign /Isidora Sessions/Session 1.md",
+    "Building the Campaign /Isidora Sessions",
     "Skey Sessions/Session 1.md",
+    "Full Party Sessions/Session 1.md",
     "Building the Campaign /Loot and Treasure Tables.md",
     "Building the Campaign /Environmental Hazards.md",
     "Building the Campaign /Enemy Stat Block.md",
     "Building the Campaign /Encounter Templates.md",
-    "Isidora Sessions/Session 1.md",
     "Skey Sessions",
     "Full Party Sessions",
     "Bios/Isidora (Played by Tigra Valentine).md",
-    "Isidora Sessions",
     "Bios/NPC Character Template.md",
     "Session 0/Ability Scores and Feats.md",
     "Session 0/Safety Tools.md",
@@ -238,8 +240,6 @@
     "Building the Campaign /Factions and Politics.md",
     "Session 0/Backstory Guidelines.md",
     "Session 0/Species.md",
-    "Session 0/Classes.md",
-    "Session 0/Party Relationships.md",
-    "Session 0/House Rules.md"
+    "Session 0/Classes.md"
   ]
 }
