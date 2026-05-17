@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 0/Current Players.md",
+                "file": "Session 0/World Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Current Players"
+              "title": "World Overview"
             }
           }
         ],
@@ -212,6 +212,7 @@
   },
   "active": "da39043a51b5abe6",
   "lastOpenFiles": [
+    "Session 0/Current Players.md",
     "Isidora Sessions/Session 1.md",
     "Isidora Sessions",
     "Building the Campaign /Isidora Sessions/Session 1.md",
@@ -232,7 +233,6 @@
     "Session 0/Starting Hooks.md",
     "Session 0/Themed and Tone.md",
     "Session 0/World Overview.md",
-    "Session 0/Current Players.md",
     "Building the Campaign /Plot Twists.md",
     "Building the Campaign /Main Story Arc.md",
     "Building the Campaign /Homebrew Rules.md",

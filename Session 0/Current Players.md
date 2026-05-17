@@ -6,5 +6,5 @@
 - Joey
 - Emma - goose
 - Raven
-- Raven’s sister - a floating telepathic dragon egg 
 - 
+Bleed damage
