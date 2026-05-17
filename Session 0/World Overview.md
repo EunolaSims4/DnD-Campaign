@@ -40,8 +40,55 @@ The capital is a working city. It is not a ceremonial one. The Crown's business 
 
 #### Thornhaven
 
-Thornhaven is a market town located at the southern edge of Abidor's territory, at the junction of three secondary roads. It functions as a commercial hub for the surrounding region and as the first and last significant settlement travelers encounter when entering or leaving Abidor from the south.
+Thornhaven is a port market town located at the southern edge of Abidor's territory, at the junction of three secondary roads. It functions as a commercial hub for the surrounding region and as the first and last significant settlement travelers encounter when entering or leaving Abidor from the south.
 
-The Splitroot Inn and Tavern  is the primary lodging and gathering establishment. Its proprietor, Daven, has operated it for many years and is considered a reliable source of local information by those who know how to ask.
+The Splitroot Inn and Tavern  is the primary lodging and gathering establishment. Its proprietor, Devin’s, has operated it for many years and is considered a reliable source of local information by those who know how to ask. Devina’s past is unknown to most of the town.
 
 The Ventval Woodlands lie to the north and west of Thornhaven. They have been experiencing an irregular condition for several weeks at the time of this document's preparation. The nature of this condition is under assessment.
+
+## III. The Kingdom of Onara
+#### Geography and Character
+
+Onara occupies the central-eastern portion of the continent, sharing its western border with Abidor along the Alder Road. It is a smaller kingdom than Abidor in both territory and population, with an economy built primarily on trade in medicinal goods, healing practice, and agricultural surplus.
+
+Onara is known on the continent as a kingdom of healers. This reputation is accurate in the sense that its traditions emphasize restoration and care, and its practitioners are sought from considerable distance. It is not accurate in the sense of implying passivity. Onara's court is capable and its interests are its own.
+
+#### Relations with Abidor
+
+The relationship between Abidor and Onara is one of managed distance. The two kingdoms share a border and a trade road and a history of negotiated treaties, none of which have produced genuine warmth. They are not at war. They are not allies. They are neighbors who have found that the cost of conflict exceeds the benefit, and who conduct themselves accordingly.
+
+Certain recent developments have complicated this relationship. 
+## IV. Current Matters of State
+#### The Dragon
+
+A golden dragon has been observed moving across the continent in a northeastern direction, burning towns and settlements along a consistent corridor. The dragon is not acting randomly. Witness accounts indicate it is searching for something or someone specific, moving through structures one by one and departing when its search is unsuccessful.
+
+The Crown is aware that this dragon was depicted on the walls of a temple encountered by certain parties operating in the southern territories. The Crown does not yet have a full account of what that depiction signifies or what relationship exists between the dragon and the figures also depicted there.
+
+The capital is the next logical point on the dragon's current trajectory. The Crown is preparing accordingly.
+
+#### The Burned Towns
+
+Several towns along the dragon's corridor have been significantly damaged or destroyed. Of those, the following pattern has been observed: a second wave of activity follows the dragon's departure, conducted by organized groups who move into the damaged settlements and operate among the survivors.
+
+The nature of these groups and their objectives are under investigation. What is known is that they are coordinated, that they leave a consistent mark at sites they have operated in, and that they are not affiliated with any recognized faction or crown. Their presence in the aftermath of the dragon's burning is not coincidental.
+
+#### The Road
+
+The primary trade road between Thornhaven and the capital is the most direct route north and currently the most traveled, primarily by people moving south. Travelers going north against this flow will encounter consistent evidence of displacement: families, burned goods, accounts of fire.
+
+Waystations along the road are operational. The road itself is passable. The Crown advises that the journey of sixty days from Thornhaven to the capital should be managed with attention to supply, shelter, and the condition of those encountered along the way, as their accounts carry information of value.
+## V. The Temple Figures
+The walls of a temple in the southern territories depict three figures of significance. The Crown acknowledges these depictions and notes that each of the three figures is understood to exist in some form within the current world. What follows is what the Crown is prepared to share at this time.
+
+#### Dragomir
+
+A golden dragon of considerable age. Depicted on the temple wall in the act of burning. Currently active on the continent and moving northeast. The Crown has no record of prior contact with this entity and no established understanding of its motivations. It is searching for something. What that something is has not been determined.
+
+#### Dreamscape
+
+A figure associated with deep water. The Crown's records on this entity are limited. It is understood to exist within the continent's geography in a fixed location and to be of a nature that does not lend itself to standard diplomatic contact. Those who have sought it have generally had to seek it rather than summon it.
+
+#### Elpis
+
+A figure of older classification, associated with the Ventval Woodlands and surrounding territories. The Crown's records are similarly limited. What is known is that the Ventval Woodlands are currently in an irregular state and that this may be relevant to any attempt to locate or contact this figure.

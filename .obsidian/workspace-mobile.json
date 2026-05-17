@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 0/World Overview.md",
+                "file": "Session 0/House Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World Overview"
+              "title": "House Rules"
             }
           }
         ],
@@ -155,7 +155,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Session 0/Current Players.md",
+            "file": "Session 0/House Rules.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -212,6 +212,8 @@
   },
   "active": "da39043a51b5abe6",
   "lastOpenFiles": [
+    "Session 0/Themed and Tone.md",
+    "Session 0/World Overview.md",
     "Session 0/Current Players.md",
     "Isidora Sessions/Session 1.md",
     "Isidora Sessions",
@@ -231,8 +233,6 @@
     "Session 0/Safety Tools.md",
     "Session 0/Starting Equipment and Gold.md",
     "Session 0/Starting Hooks.md",
-    "Session 0/Themed and Tone.md",
-    "Session 0/World Overview.md",
     "Building the Campaign /Plot Twists.md",
     "Building the Campaign /Main Story Arc.md",
     "Building the Campaign /Homebrew Rules.md",
